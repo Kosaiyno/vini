@@ -1,0 +1,149 @@
+
+
+    .pictures{
+      width:100%;
+      margin-bottom:10px;
+     
+      
+
+    }
+
+    .pictures-2{
+      width: 100%;
+      margin-bottom: 10px;
+    
+    }
+
+    
+
+    .profile-picture {
+      display: inline-block;
+      vertical-align: top;
+      width:38px;
+      border-radius: 50%;
+      margin-right: 5px;
+    }
+
+    .the-info{
+      font-size: 20px;
+      display: inline-block;
+      vertical-align: top;
+    }
+
+   .the-info-grid{
+    display: grid;
+    grid-template-columns: 50px 1fr;
+   }
+
+   .info-title{
+    font-size: 15px;
+    font-weight:bold;
+    margin-bottom: 10px;
+    margin-top: 0px;
+   }
+
+   .info-name,.info-stat{
+    font-size: 13px;
+    color: rgb(99, 92, 92);
+   } 
+
+   .info-name{
+    margin-bottom: 5px;
+   }
+   
+   .profile-pic2{
+    display: inline-block;
+    vertical-align: top;
+    width:38px;
+    border-radius: 50%;
+    margin-right: 5px;
+   }
+
+   .video-grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+    column-gap: 17px;
+    row-gap: 40px;
+   }
+
+   
+
+   .thumbnail-1{
+    position: relative;
+   }
+
+   .video-time{
+    font-family: Roboto,Arial;
+    font-size: small;
+    font-weight: 500;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    position: absolute;
+    background-color: black;
+    border-radius: 3px;
+    color: white;
+    bottom: 22px;
+    right: 6px;
+   }
+
+   .thumbnail-2{
+    position: relative;
+   }
+
+   .video-time-2{
+    font-family: Roboto,Arial;
+    font-size: small;
+    font-weight: 500;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    position: absolute;
+    background-color: black;
+    border-radius: 3px;
+    color: white;
+    bottom: 22px;
+    right: 6px;
+   }
+
+   .thumbnail-3{
+    position: relative;
+   }
+
+   .video-time-3{
+    font-family: Roboto,Arial;
+    font-size: small;
+    font-weight: 500;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    position: absolute;
+    background-color: black;
+    border-radius: 3px;
+    color: white;
+    bottom: 22px;
+    right: 6px;
+   }
+
+   .thumbnail-4{
+    position: relative;
+   }
+
+   .video-time-4{
+    font-family: Roboto,Arial;
+    font-size: small;
+    font-weight: 500;
+    padding-left: 4px;
+    padding-right: 4px;
+    padding-bottom: 4px;
+    padding-top: 4px;
+    position: absolute;
+    background-color: black;
+    border-radius: 3px;
+    color: white;
+    bottom: 22px;
+    right: 6px;
+   }
